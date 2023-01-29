@@ -1,0 +1,6 @@
+
+*.pyc
+*.pickle
+*.csv
+*.pt
+*.txt
